@@ -1,0 +1,15 @@
+{
+  "name": "unrest-starter-project",
+  "version": "1.0.0",
+  "description": "Boilerplate for unrest",
+  "main": "index.js",
+  "scripts": {
+    "client": "parcel client/index.html -p 21337"
+  },
+  "author": "chriscauley",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "unrest.io": "^0.0.3"
+  }
+}
