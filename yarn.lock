@@ -5206,6 +5206,16 @@ unquote@~1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/unquote/-/unquote-1.1.1.tgz#8fded7324ec6e88a0ff8b905e7c098cdc086d544"
 
+unrest.io@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/unrest.io/-/unrest.io-0.0.4.tgz#0f005286c147d445df426a874cdbf4d6645c7747"
+  integrity sha512-SKbjNqO/dhkjwiQF2l2HIXUyfS6vVvQyC1dGX/ZnLBZPx7lBlsbzDNCdwvj8HAnECgGUTOY/3F2RbG/MD4z0fQ==
+  dependencies:
+    "@babel/plugin-transform-runtime" "^7.4.0"
+    cookie "^0.3.1"
+    date-fns "^1.30.1"
+    diff "^4.0.1"
+
 unset-value@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unset-value/-/unset-value-1.0.0.tgz#8376873f7d2335179ffb1e6fc3a8ed0dfc8ab559"

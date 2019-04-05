@@ -21,7 +21,7 @@
     "parcel-plugin-riot": "^2.1.0",
     "querystring": "^0.2.0",
     "riot": "^3.13.2",
-    "unrest": "0.0.4"
+    "unrest.io": "0.0.4"
   },
   "devDependencies": {
     "@babel/core": "7.2.2",
