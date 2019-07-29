@@ -13,8 +13,16 @@ class MyModel extends Model {
   }
 }
 
-new StorageManager(MyModel)
+class TodoItem extends MyModel {
+  static slug = "client.TodoItem"
+  static fields = {
+  }
+  static editable_fieldnames = ['name',]
+}
+
+new StorageManager(TodoItem)
 
 export default {
-  MyModel
+  MyModel,
+  TodoItem
 }
